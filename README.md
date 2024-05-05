@@ -1,7 +1,7 @@
 # The-Goose-Place
 <img width="450" src="https://raw.githubusercontent.com/Lichat127/The-Goose-Place/main/public/logo.png">
 
-## Sommaire
+## Summary
 1. [Overview](#overview)
 2. [Technologies](#technologies)
 3. [Requirement](#requirement)
